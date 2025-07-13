@@ -1,4 +1,4 @@
-<h3 align="center">Fewer commits here lately — more learning, more building, more growing elsewhere.</h3>
+<h3 align="center">Fewer commits here lately, more learning, more building, more growing elsewhere.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshaa1268&label=Profile%20views&color=0e75b6&style=flat" alt="akankshaa1268" /> </p>
 
