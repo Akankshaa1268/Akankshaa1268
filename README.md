@@ -4,7 +4,6 @@
 
 - Currently learning **Backend technologies.**
 
-- My portfolio [https://akankshapal.vercel.app/](https://akankshapal.vercel.app/)
 
 - Reach me at **akankshapal1207@gmail.com**
 
